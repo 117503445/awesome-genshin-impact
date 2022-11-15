@@ -1,5 +1,7 @@
 # Awesome Genshin
 
+[中文](README_CN.md)
+
 A curated list of awesome Genshin Impact project.
 
 ## Data query
